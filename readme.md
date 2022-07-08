@@ -1,5 +1,5 @@
 
-// Person
+
 var schema = {
   "id": "/SimplePerson",
   "type": "object",
